@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align="center">
+    <img width="200" src="https://user-images.githubusercontent.com/7894672/202037967-3fef9a80-c3cb-4536-9ce8-9b60526afb7c.png">
+</p>
+
+<h1> Hello everyone! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
 <!--
 **afrodev/afrodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
