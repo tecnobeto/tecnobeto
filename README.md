@@ -8,6 +8,6 @@
 - 🌱 I’m currently learning more about business and management
 - 👯 I’m looking to collaborate on a lot Swift libraries
 - 🤔 I’m looking for help to be an indie developer
-- 💬 Ask me about experiences and football stuff 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/afrodev/" target="blank">LinkedIn</a> | <a href = "mailto: oafrodev@icloud.com">Mail</a>
+- 💬 Ask me about trip experiences and football stuff 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/afrodev/" target="blank">LinkedIn</a> | <a href = "mailto: oafrodev@icloud.com">Mail</a> | <a href = "https://stackoverflow.com/users/5517975/afrodev">StackOverflow</a>
 - 😄 Pronouns: He/His/Him
