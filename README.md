@@ -20,6 +20,5 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrodev&show_icons=true&locale=en&layout=compact" alt="afrodev" /></p> -->
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrodev&show_icons=true&locale=en" alt="afrodev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrodev&" alt="afrodev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tecnobeto&show_icons=true&locale=en" alt="tecnobeto" /></p>
 </div>
